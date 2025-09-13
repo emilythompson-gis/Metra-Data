@@ -1,4 +1,4 @@
-STATION,YEAR,BOARDS,ALIGHTS
+,YEAR,BOARDS,ALIGHTS
 103rd Street (Beverly Hills),2018,734,731
 103rd Street (Beverly Hills),2016,759,754
 103rd Street (Beverly Hills),2014,767,806
@@ -752,9 +752,9 @@ Blue Island (Vermont Street),1987,914,853
 Blue Island (Vermont Street),1985,739,780
 Blue Island (Vermont Street),1983,679,652
 Blue Island (Vermont Street),1979,920,0
-Blue Island (Vermont Street.),2018,116,128
-Blue Island (Vermont Street.),2016,113,122
-Blue Island (Vermont Street.),2014,124,186
+Blue Island (Vermont Street),2018,116,128
+Blue Island (Vermont Street),2016,113,122
+Blue Island (Vermont Street),2014,124,186
 Braeside,2018,410,379
 Braeside,2016,442,421
 Braeside,2014,373,378
@@ -1709,21 +1709,21 @@ Hinsdale,1987,1194,1138
 Hinsdale,1985,1196,1115
 Hinsdale,1983,1155,1096
 Hinsdale,1979,1280,0
-Hollywood,2018,120,104
-Hollywood,2016,120,191
-Hollywood,2014,95,108
-Hollywood,2006,133,91
-Hollywood,2002,129,100
-Hollywood,1999,144,133
-Hollywood,1997,133,106
-Hollywood,1995,174,158
-Hollywood,1993,123,107
-Hollywood,1991,116,125
-Hollywood,1989,160,141
-Hollywood,1987,170,151
-Hollywood,1985,147,182
-Hollywood,1983,152,143
-Hollywood,1979,207,0
+Hollywood (Zoo Stop),2018,120,104
+Hollywood (Zoo Stop),2016,120,191
+Hollywood (Zoo Stop),2014,95,108
+Hollywood (Zoo Stop),2006,133,91
+Hollywood (Zoo Stop),2002,129,100
+Hollywood (Zoo Stop),1999,144,133
+Hollywood (Zoo Stop),1997,133,106
+Hollywood (Zoo Stop),1995,174,158
+Hollywood (Zoo Stop),1993,123,107
+Hollywood (Zoo Stop),1991,116,125
+Hollywood (Zoo Stop),1989,160,141
+Hollywood (Zoo Stop),1987,170,151
+Hollywood (Zoo Stop),1985,147,182
+Hollywood (Zoo Stop),1983,152,143
+Hollywood (Zoo Stop),1979,207,0
 Homewood,2018,1171,1143
 Homewood,2016,1308,1237
 Homewood,2014,1244,1316
@@ -2856,21 +2856,21 @@ Rolling Prairie,1989,1,1
 Romeoville,2018,148,144
 Rondout,1983,17,17
 Rondout,1979,36,0
-Roosevelt Road,2018,370,477
-Roosevelt Road,2016,484,628
-Roosevelt Road,2014,429,571
-Roosevelt Road,2006,583,916
-Roosevelt Road,2002,413,668
-Roosevelt Road,1999,579,609
-Roosevelt Road,1997,433,566
-Roosevelt Road,1995,420,513
-Roosevelt Road,1993,475,550
-Roosevelt Road,1991,335,609
-Roosevelt Road,1989,297,600
-Roosevelt Road,1987,302,457
-Roosevelt Road,1985,525,485
-Roosevelt Road,1983,410,484
-Roosevelt Road,1979,649,0
+Museum Campus/11th St,2018,370,477
+Museum Campus/11th St,2016,484,628
+Museum Campus/11th St,2014,429,571
+Museum Campus/11th St,2006,583,916
+Museum Campus/11th St,2002,413,668
+Museum Campus/11th St,1999,579,609
+Museum Campus/11th St,1997,433,566
+Museum Campus/11th St,1995,420,513
+Museum Campus/11th St,1993,475,550
+Museum Campus/11th St,1991,335,609
+Museum Campus/11th St,1989,297,600
+Museum Campus/11th St,1987,302,457
+Museum Campus/11th St,1985,525,485
+Museum Campus/11th St,1983,410,484
+Museum Campus/11th St,1979,649,0
 Roselle,2018,1448,1369
 Roselle,2016,1455,1409
 Roselle,2014,1277,1361
@@ -3135,10 +3135,10 @@ Washington Heights,1987,95,136
 Washington Heights,1985,74,89
 Washington Heights,1983,80,60
 Washington Heights,1979,61,0
-Washington St. (Grayslake),2018,86,84
-Washington St. (Grayslake),2016,110,95
-Washington St. (Grayslake),2014,122,108
-Washington St. (Grayslake),2006,109,112
+Washington St,2018,86,84
+Washington St,2016,110,95
+Washington St,2014,122,108
+Washington St,2006,109,112
 Waukegan,2018,764,737
 Waukegan,2016,911,796
 Waukegan,2014,910,926
